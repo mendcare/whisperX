@@ -1,0 +1,12 @@
+SPEAKER_02 - Bella.
+SPEAKER_02 - How are you, love?
+SPEAKER_02 - How are you?
+SPEAKER_02 - Oh, I'm okay.
+SPEAKER_02 - I will be.
+SPEAKER_00 - I said she could stay with us, Marge, until she feels better.
+SPEAKER_02 - Of course she can.
+SPEAKER_02 - No, this won't be for long.
+SPEAKER_03 - Well, you can stay as long as you want, my love.
+SPEAKER_03 - I really missed you.
+SPEAKER_02 - Pops.
+SPEAKER_03 - Great to see you, love.
